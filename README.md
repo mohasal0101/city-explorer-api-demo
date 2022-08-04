@@ -70,10 +70,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 Name of feature: ________________________________
 
-*Estimate of time needed to complete: _____
+Estimate of time needed to complete: _____
 
 Start time: _____
 
 Finish time: _____
 
-Actual time needed to complete: _____*
+Actual time needed to complete: _____
